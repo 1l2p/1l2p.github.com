@@ -15,8 +15,6 @@
 		<!-- TO FANCY FACEBOOK -->
 		<meta property="og:title" content="P2PU Resources" />
 		<meta property="og:type" content="company" />
-		<meta property="og:url" content="http://magpielab.com/" />
-		<meta property="og:site_name" content="Magpie lab" />
 
 
 {% else %}
@@ -29,16 +27,12 @@
 		<meta property="og:title" content="{{ site.tagline }} - {{ page.title }} - P2PU" />
 		<meta property="og:type" content="company" />
 		<meta property="og:url" content="{{ site.production_url }}{{ page.url }}" />
-		<meta property="og:image" content="http://magpielab.com/img.png" />
 		<meta property="og:site_name" content="P2PU" />
 
 
 {% endcase %}
-		<meta name="keywords" content="web design, web application development, UI design, CSS, XHTML, web standards, small business web design, web design consultancy, P2PU"/>
 		<meta name="robots" content="noodp" />
 
-		<meta property="fb:app_id" content="256761344387606"/>
-		<meta property="fb:admins" content="100002519785434"/>
 
 		<link rel="canonical" href="http://magpielab.com/"/>
 		<!--[if lt IE 9]>
@@ -60,29 +54,6 @@
 
 	
 	<body>
-
-		<div id="fb-root"></div>
-		<script>(function(d, s, id) {
-		  var js, fjs = d.getElementsByTagName(s)[0];
-		  if (d.getElementById(id)) return;
-		  js = d.createElement(s); js.id = id;
-		  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=256761344387606";
-		  fjs.parentNode.insertBefore(js, fjs);
-		}(document, 'script', 'facebook-jssdk'));
-
-
-		$(window).bind("load resize", function(){    
-		  var container_width = $('.comments').width();    
-		    $('.comments').html('<div class="fb-comments" ' + 
-		    'data-href="{{ site.production_url }}{{ page.url }}"' +
-		    ' data-width="' + container_width + '"' +
-		    'data-num-posts="2"></div>');
-		    FB.XFBML.parse( );    
-		}); 
-
-
-
-		</script>
 
 		<div id="wrapper">
 			<header id="header">
@@ -119,20 +90,6 @@
 					{% endunless %}
 
 				</nav>
-
-<!--
-
-<div class="spread-love">
-
-<div class="g-plusone" data-size="small"></div>
-<script type="text/javascript">gapi.plusone.go();</script>
-
-<div class="fb-like" data-send="false" data-layout="button_count" data-width="80" data-show-faces="false"></div>
-
-<a href="https://twitter.com/share" class="twitter-share-button" data-text="@magpielab creates websites adhering to web standards (CSS3 & HTML5)" data-related="magpielab" data-hashtags="WebDevelopment, WebDesign, WebStrategy">Tweet</a>
-</div>
-
--->
 
 				</div>
 			</header>
