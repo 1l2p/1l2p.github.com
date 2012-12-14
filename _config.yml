@@ -1,9 +1,6 @@
 safe:        false
 auto:        false
 server:      false
-server_port: 4000
-baseurl:    /jekyll_demo
-url: http://localhost:4000
 
 source:      .
 destination: ./_site
@@ -21,9 +18,6 @@ maruku:
   png_engine: blahtex
   png_dir:    images/latex
   png_url:    /images/latex
-
-rdiscount:
-  extensions: []
 
 kramdown:
   auto_ids: true,
