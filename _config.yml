@@ -1,6 +1,7 @@
 safe:        false
 auto:        false
 server:      false
+baseurl:    /site
 
 source:      .
 destination: ./_site
