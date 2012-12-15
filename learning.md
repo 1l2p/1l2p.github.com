@@ -1,3 +1,7 @@
+---
+layout: post
+title: A markdown page
+---
 We didn’t start with MOOCs, we started with how people already learn on the web. Not replicating and scaling how education works in institutions today. Community -- many small communities forming larger ones -- are at the center of this learning experience.
 
 * C like Community
