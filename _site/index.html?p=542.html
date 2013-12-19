@@ -1,0 +1,265 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+	<title>P2PU &#8211; learning from open source (2) :  Sharing Nicely</title>
+	
+<link href='http://fonts.googleapis.com/css?family=Merriweather:300' rel='stylesheet' type='text/css'>
+
+<!--[if gte IE 7]><!-->
+  <link rel="stylesheet" href="wp-content/themes/manifest_v1.1/style.css" type="text/css" media="screen" charset="utf-8" />
+<!-- <![endif]-->
+
+<!--[if IE 7]>
+  <link rel="stylesheet" href="http://sharing-nicely.net/wp-content/themes/manifest_v1.1/style_ie.css" type="text/css" media="screen" charset="utf-8" />
+<![endif]-->
+
+<!--[if IE 6]>
+<link rel="stylesheet" type="text/css" media="screen" href="http://sharing-nicely.net/wp-content/themes/manifest_v1.1/styles_ie6.css" />
+<![endif]-->
+
+  <link rel="alternate" type="application/rss+xml" title="Sharing Nicely RSS Feed" href="feed/index.html" />
+  <link rel="alternate" type="application/atom+xml" title="Sharing Nicely Atom Feed" href="feed/atom/index.html" />
+  <script type="text/javascript" src="wp-content/themes/manifest_v1.1/js/jquery-1.3.2.min.js" charset="utf-8">
+    
+  </script>
+  <link rel="pingback" href="xmlrpc.php" />
+    <link rel="alternate" type="application/rss+xml" title="Sharing Nicely &raquo; P2PU &#8211; learning from open source (2) Comments Feed" href="2009/12/p2pu-learning-from-open-source-2/feed/index.html" />
+<script type='text/javascript' src='http://sharing-nicely.net/wp-includes/js/comment-reply.min.js?ver=3.8'></script>
+<script type='text/javascript' src='http://sharing-nicely.net/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://sharing-nicely.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='wp-content/plugins/google-analyticator/external-tracking.min.js%3Fver=6.4.5'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://sharing-nicely.net/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Jetpack for Learning Design Challenge &#8211; We want your ideas!' href='index.html%3Fp=521.html' />
+<link rel='next' title='Alternative accreditation &#8211; first ideas and upcoming workshop in Boston 2010' href='index.html%3Fp=556.html' />
+<meta name="generator" content="WordPress 3.8" />
+<link rel='canonical' href='index.html%3Fp=542.html' />
+<link rel='shortlink' href='index.html%3Fp=542.html' />
+<!-- Google Analytics Tracking by Google Analyticator 6.4.5: http://www.videousermanuals.com/google-analyticator/ -->
+<script type="text/javascript">
+	var analyticsFileTypes = [''];
+	var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-5492275-1']);
+        _gaq.push(['_addDevId', 'i9k95']); // Google Analyticator App ID with Google 
+        
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+</head>
+
+<body class="single single-post postid-542 single-format-standard">
+
+
+<div id="siteWrapper">
+
+  <h1 class="vcard author"><a href="index.html" title="Home" class="fn">Sharing Nicely</a></h1> 
+
+  <div id="mainNav">
+    <ul>
+      <li class="page_item page-item-39"><a href="index.html%3Fp=39.html">About</a></li>
+<li class="page_item page-item-730"><a href="index.html%3Fp=730.html">Archive</a></li>
+<li class="page_item page-item-529"><a href="index.html%3Fp=529.html">P2PU</a></li>
+<li>&nbsp;&nbsp;&nbsp;<a href="http://twitter.com/sharingnicely"><img src="wp-content/uploads/2012/01/twitter-e1327053345661.jpeg" border="0"></a>
+<a href="https://plus.google.com/110535027738331018997?prsrc=3"><img src="https://ssl.gstatic.com/images/icons/gplus-32.png" border="0"></a>
+<a href="http://ashoka.org"><img src="wp-content/uploads/2012/06/Tree_Color_small.jpg" border="0" height="32"></a>
+<a href="http://shuttleworthfoundation.org"><img src="wp-content/uploads/2012/01/SFFellowSidebarVersion.png" height="32" border="0"></a></li>
+    </ul>
+  </div>
+
+    
+
+  <div id="siteDescription">
+<!--  Philipp Schmidt&#039;s shared learnings  -->
+  </div>
+<div id="coreContent">
+
+	
+
+      <div class="post single hentry">
+        <div class="postContent">
+          <h3 class="entry-title">P2PU &#8211; learning from open source (2)</h3>
+          <h4 class="vcard author">by <span class="fn">P</span></h4>
+          <div class="entry-content">
+              <p>This is part II in an open ended series on useful lessons that P2PU can learn from open source software communities. I am looking specifically at issues around governance, and culture.</p>
+<p><strong>Governance </strong></p>
+<p>As open communities grow, governance becomes a (fascinating) challenge. If you want to scale, and P2PU does want to scale, you need more people to feel ownership and take responsibility. That can be scary for the people who started the project, because how do you retain focus as more people with more (and different?) ideas arrive, and how do you preserve a sense of common values and culture?</p>
+<p>I spent some time investigating how open source communities deal with issues of governance to see if we can learn from their experience. There is a great video on poisonous people in open source communities, which touches on a lot of issues that are relevant to governance of P2PU, although I think it&#8217;s better to frame the topic in a positive way. Rather than fighting against poisonous participants, it&#8217;s really about creating a healthy open source community. The video is long, but worth watching if you have an hour over lunch or so: <a href="http://sites.google.com/site/io/how-open-source-projects-survive-poisonous-people" target="_blank">http://sites.google.com/site/io/how-open-source-projects-survive-poisonous-people</a></p>
+<p><strong>The difference between decisions and discussion</strong></p>
+<p>It&#8217;s ok to have different levels of responsibilities, but communication has to be transparent and open. People often think the essence of open source is that anyone can do anything. That is far from true. Open source projects generally have clearly defined levels of quality control and responsibility, and processes how participants can gain such responsibility. Usually, only a small group of developers has the right to &#8220;commit&#8221; new code into the core application. Other developers can submit their proposals for new or improved code, but these suggestions are reviewed before they become part of the application. Usually the developers who already have commit rights can grant similar rights to more people, effectively promoting them based on their contributions to the project.</p>
+<p>While the core group is trusted to make decisions on behalf of the community, all discussions and deliberations that these decisions are based on, happen in the open and anyone can in fact add their voice and opinion. This is fundamentally different from traditional organization, where typically the people who make the decisions discuss them amongst each other, and then announce certain developments to the wider community. In open source projects these discussions are open to all. This provides a constant check on the decisions of the code committers, because there is no room to hide bad decisions, and it turns the role of accountability on its head. In open source, the ones who have special responsibility become accountable to the community, rather than the other way around. The only discussion that remains private, is the one focused on promoting new people to higher levels of responsibility &#8211; in order to avoid embarrassment to the individuals.</p>
+<p>There are some important differences between software and P2PU. We don&#8217;t have the focus on a single artifact (the software code) that everyone works on, and which has to function together. The closest thing we have to software code are courses, which are typically designed by one or a few individuals, and which don&#8217;t rely on each other to function as a whole. One way we could map the concept of a core group of &#8220;committers&#8221; would be in the form of course shepherds. Only trusted community members, who have earned this extra responsibility can &#8220;commit&#8221; a new course to P2PU. I can see lots of complications with an approach like that for P2PU, but it is an avenue worth exploring.</p>
+<p>A lesson from open source that is easier to implement right now is the opening up of discussion and deliberation. Currently, P2PU has three tiers of conversations: the founders discuss organizational questions that are mostly focused on keeping the P2PU machine running so that the community can do what they would like to do. This includes things like organizing the next workshop, the need for a non-profit organization (or not), etc.. Increasingly the main conversations are migrating from that small group to what we call the P2PU gang mailing list, which brings together people who have made a significant contribution (organized a course, helped us with licensing issues, advised on technology, etc.). We currently rely on recommendations from this core group to add new people to the list. And finally there is the broader P2PU community that would include all of the above, but also participants in courses, and potentially outsiders. We don&#8217;t currently have a space for this wide open conversation, but it is something we are building into our new web-site.</p>
+<p><strong>General rough consensus works</strong></p>
+<p>Another misconception about decision-making in open source is that all decisions happen by voting. In fact, one quote from the video that really stood out, was &#8220;If you see a community that is voting all the time, something is very wrong&#8221;. During our Berlin workshop we adopted something called the &#8220;(emerging) general rough consensus&#8221;. In all group discussion we had one note keeper, who would at the end of the discussion, list all the points that the group seemed to have consensus on. Disagreement was encouraged and if one person flagged an issue as needing further discussion then we either discussed it more or noted that no general rough consensus could be found. It sounds complicated, but worked like a charm.</p>
+<p>Unfortunately we weren&#8217;t the first ones who came up with it. The Internet Engineering Task Force (IETF) has been using a process that is sometimes referred to as <a href="http://www.ietf.org/tao.html#getting.things.done" target="_blank">rough consensus and running code</a> to guide its deliberations on the technical foundations that keep the Internet running. If it&#8217;s good enough for the Internet, it&#8217;s good enough for us.</p>
+<p><strong>Culture counts</strong></p>
+<p>Culture is another important aspect in open source communities, and I took away two key lessons on culture form the video: One, the founders of a project create the initial culture, which ideally becomes self-selecting in the sense that people who share this culture will be attracted and feel welcome in the community, whereas people with different values and ideas will not. And second, it is important to articulate both a clearly defined (and narrow) focus and a few core values as boundaries around your culture, so that you can refer to them when needed.</p>
+<p>At P2PU, I think we have been quite successful with the first one. It certainly felt that the community that worked together in Berlin shared a substantive common set of values and culture and was excited by similar ideas for the future of P2PU. There are always individual differences, and that is a good thing, as long as there is enough overall coherence on what we are trying to do.</p>
+<p>With respect to the second point of articulating culture and values, I think there are some potential downsides, or rather pitfalls if it is not done carefully. I have experience discussions in the free culture movement, where attempts to define the &#8220;movement&#8221; led to fragmentation &#8211; as people tended to focus on differences, rather than commonalities. Once the conversation is framed in the context of differences, it becomes very difficult to remember that after all, we share most of the important ideas and values. Sometimes it is easier to manifest culture in action and implementation than it is to define it through a discussion. Given those reservations, I think we do need a set of shared values &#8211; broad values &#8211; that we articulate on our web-site, and <a href="http://www.alternativegradschool.org/biographies.html" target="_blank">Alison</a> has started compiling a draft version of what that could look like.</p>
+<p>The video also speak about paying attention to newcomers and that is something we decided to start doing more seriously, both in the form of someone from the community welcoming new members when they create an account. For people interested in organizing a new course, we will offer an orientation &#8212; a set of pointers on how to best structure a course for P2PU, and the possibility to speak to someone who has organized a course in the past and is available to answer any questions that might come up.</p>
+<p>The last aspect about culture that I want to mention here is the friction between growing very fast and retaining a shared culture. <a href="http://sharing-nicely.net/2009/12/p2pu-learning-from-open-source-2/www.virtualchaos.co.uk/blog" target="_blank">Nadeem</a> who is head of development at <a href="http://www.talis.com/" target="_blank">Talis</a> explains that take a lot of time to get to know job applicants in order to understand if they fit in with the organizational culture. He argues that it is easier to help developers become more productive, than it is to integrate them into a culture they don&#8217;t click with. Which makes me wonder how Google does this. They seem be very good at establishing and retaining a strong corporate culture even during a period of rapid growth of their community.</p>
+<p>What started out as a few ideas around governance, mushroomed into a monster blog post. If you read all the way down to here you deserve a special treat. Here is a video about culture that highlights two important lessons: one person is enough to make a difference, and people like to do stuff together.</p>
+<p><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/GA8z7f7a2Pk&#038;hl=en_US&#038;fs=1&#038;"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/GA8z7f7a2Pk&#038;hl=en_US&#038;fs=1&#038;" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object></p>
+          </div>
+        </div>
+        <div class="postMeta">
+                  
+          <div class="postDate"><span>Published:</span> <abbr class="published" title="2009-12-01T15:47:28+0000"><a href="2009/12/01/index.html">December 1, 2009</a></abbr></div>
+        	<div class="categories"><span>Filed Under:</span> <a href="category/bits-and-pieces/index.html" title="View all posts in bits and pieces" rel="category tag">bits and pieces</a>, <a href="category/open-education/index.html" title="View all posts in open education" rel="category tag">open education</a>, <a href="category/p2pu/index.html" title="View all posts in p2pu" rel="category tag">p2pu</a></div>
+        	        	
+        	
+
+        </div>
+      </div>
+
+            
+	
+<div id="disqus_thread">
+                    <div id="dsq-content">
+
+
+            <ul id="dsq-comments">
+                    <li class="comment even thread-even depth-1" id="dsq-comment-88">
+        <div id="dsq-comment-header-88" class="dsq-comment-header">
+            <cite id="dsq-cite-88">
+http://aktivistiyliopisto.wordpress.com/                <span id="dsq-author-user-88">Activist</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-88" class="dsq-comment-body">
+            <div id="dsq-comment-message-88" class="dsq-comment-message"><p>Hi!</p>
+<p>The p2pu is a great initiative! Just a stupid question to which I did not find an answer in the faq: why is the p2pu not a part of the Wikiversity?</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="dsq-comment-89">
+        <div id="dsq-comment-header-89" class="dsq-comment-header">
+            <cite id="dsq-cite-89">
+http://bokaap.net/blog                <span id="dsq-author-user-89">Philipp Schmidt</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-89" class="dsq-comment-body">
+            <div id="dsq-comment-message-89" class="dsq-comment-message"><p>Hey Activist:</p>
+<p>That is not a stupid question at all. I spent an hour discussing it with someone involved in Wikiversity a few weeks ago. In a nutshell, although the title Wikiversity sounds like their model is similar to ours, the ideas and goals are actually quite different. P2PU is focusing on one thing: helping self-learners learn with each other in an open social learning model. Wikiversity has a much broader and more ambitious vision. According to its website it is &#8220;devoted to learning resources, learning projects, and research for use in all levels, types, and styles of education from pre-school to university, including professional training and informal learning.&#8221;</p>
+<p>We also made a decision early on that we wanted to start P2PU by creating a strong community of individuals who share a common set of values, and then scale up in a way that would retain that sense of community and shared culture. That is different from the Wikipedia (and Wikiversity) model, which takes its strength from openness. We feel that there are important differences between the social process of learning and the social process of collaboration around a common artefact which can easily be modularized (such as an encyclopedia).</p>
+<p>And finally, Wikiversity is a Wikimedia Foundation project, which has implications for governance strategic decisions they can take (for example, the choice of technology). When we started out, we wanted as little constraints as possible, and we wanted to give our idea some time to grow in a safe space.</p>
+<p>While I took some time to point out the differences here, we definitely see ourselves as part of a bigger movement that includes Wikiversity (and Wikieducator and many others). We are all trying to increase opportunities for participation in useful human endeavors like education.</p>
+<p>I hope this answered your question.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+            </ul>
+
+
+        </div>
+
+    </div>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+    var disqus_url = 'http://sharing-nicely.net/2009/12/p2pu-learning-from-open-source-2/';
+    var disqus_identifier = '542 http://bokaap.net/?p=542';
+    var disqus_container_id = 'disqus_thread';
+    var disqus_domain = 'disqus.com';
+    var disqus_shortname = 'sharingnicely';
+    var disqus_title = "P2PU &#8211; learning from open source (2)";
+        var disqus_config = function () {
+        var config = this; // Access to the config object
+        config.language = '';
+
+        /*
+           All currently supported events:
+            * preData — fires just before we request for initial data
+            * preInit - fires after we get initial data but before we load any dependencies
+            * onInit  - fires when all dependencies are resolved but before dtpl template is rendered
+            * afterRender - fires when template is rendered but before we show it
+            * onReady - everything is done
+         */
+
+        config.callbacks.preData.push(function() {
+            // clear out the container (its filled for SEO/legacy purposes)
+            document.getElementById(disqus_container_id).innerHTML = '';
+        });
+                config.callbacks.onReady.push(function() {
+            // sync comments in the background so we don't block the page
+            var script = document.createElement('script');
+            script.async = true;
+            script.src = '?cf_action=sync_comments&post_id=542';
+
+            var firstScript = document.getElementsByTagName( "script" )[0];
+            firstScript.parentNode.insertBefore(script, firstScript);
+        });
+                    };
+/* ]]> */
+</script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+    var DsqLocal = {
+        'trackbacks': [
+        ],
+        'trackback_url': "http:\/\/sharing-nicely.net\/2009\/12\/p2pu-learning-from-open-source-2\/trackback\/"    };
+/* ]]> */
+</script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript';
+    dsq.async = true;
+    dsq.src = '//' + disqus_shortname + '.' + 'disqus.com' + '/embed.js?pname=wordpress&pver=2.74';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+/* ]]> */
+</script>
+
+  <div class="pageNav">
+    <div class="prev"><a href="index.html%3Fp=521.html" rel="prev">&laquo; Previous Post</a></div>
+    <div class="next"><a href="index.html%3Fp=556.html" rel="next">Next Post &raquo;</a></div>
+  </div>
+
+
+	
+</div>
+
+
+</div>
+
+<div id="footer">
+
+  <!-- Footer Links -->
+  
+  <h5>Elsewhere</h5>
+  <ul class="elsewhere">
+      </ul>
+
+  <!-- Search Field -->
+  
+  <div class="footerContent">
+    <form method="get" id="searchform" action="index.html">
+      <div id="search">
+        <input type="text" value="" name="s" id="s" />
+        <input type="submit" id="searchsubmit" value="Search" />
+      </div>
+    </form>
+    
+    
+    <p>&copy; Sharing Nicely. Powered by <a href="http://wordpress.org/">WordPress</a> and <a href="http://jimbarraud.com/manifest/">Manifest</a></p>
+  </div>
+</div>
+
+
+</body>
+</html>
