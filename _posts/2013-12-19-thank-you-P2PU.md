@@ -20,7 +20,9 @@ I love that we care about the things we work on, but that we care more about the
 
 At one workshop, the post-it note that asked “Should Philipp wear a Cape?” received more votes than the suggestion that P2PU “use new learning models to hack into popular notions of independence and self-reliance”. My kind of people! 
 
-I think of the 09/09/09 t-shirt as my cape, and I will always wear it proudly (or try to, because it is getting a little small these days). And yes, that is a terrible picture in which I look positively insane, but who cares, right? ![p2pu-shirt][15] 
+I think of the 09/09/09 t-shirt as my cape, and I will always wear it proudly (or try to, because it is getting a little small these days). And yes, that is a terrible picture in which I look positively insane, but who cares, right?
+
+ ![p2pu-shirt][15] 
 
 People of P2PU, peers, all of you are really very special to me! Thank you! 
 
