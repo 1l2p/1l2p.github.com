@@ -28,7 +28,20 @@ P
 
 Executive Director Search > The search for a new ED will start in the next few weeks. The best person to contact about the role is board chair Delia Browne and you can reach her via admin@p2pu.org.       
 
-[1]: https://twitter.com/schmidtphi [2]: http://www.media.mit.edu/ [3]: http://directorsfellows.media.mit.edu/ [4]: http://www.youtube.com/watch?v=7YSFMimAI3Q [5]: http://joi.ito.com/ [6]: http://web.media.mit.edu/~mres/ [7]: https://twitter.com/rebamex [8]: https://github.com/dirkcuys [9]: https://twitter.com/ercchy [10]: http://mozzadrella.me/ [11]: http://info.p2pu.org/2013/11/25/hello-carl/ [12]: http://learn.media.mit.edu/ [13]: http://www.playwithyourmusic.org/ [14]: http://www.flickr.com/search/?q=p2pu 
+[1]: https://twitter.com/schmidtphi 
+[2]: http://www.media.mit.edu/ 
+[3]: http://directorsfellows.media.mit.edu/ 
+[4]: http://www.youtube.com/watch?v=7YSFMimAI3Q 
+[5]: http://joi.ito.com/ 
+[6]: http://web.media.mit.edu/~mres/ 
+[7]: https://twitter.com/rebamex 
+[8]: https://github.com/dirkcuys 
+[9]: https://twitter.com/ercchy 
+[10]: http://mozzadrella.me/ 
+[11]: http://info.p2pu.org/2013/11/25/hello-carl/ 
+[12]: http://learn.media.mit.edu/ 
+[13]: http://www.playwithyourmusic.org/ 
+[14]: http://www.flickr.com/search/?q=p2pu 
 [15]: http://farm3.staticflickr.com/2538/3830452429_f11d6ec9de.jpg
 [16]: http://info.p2pu.org/2013/12/21/thank-you/
 
