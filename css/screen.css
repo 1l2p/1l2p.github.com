@@ -45,7 +45,7 @@ p {
 }
 
 a {
-  color: #038;
+  color: #08F;
   text-decoration: none;
 }
 
@@ -54,7 +54,7 @@ a:hover {
 }
 
 a:visited {
-  color: #038;
+  color: #08F;
 }
 
 table {
@@ -166,7 +166,7 @@ ul.posts {
     }
 
       .site .footer .contact a {
-        color: #8085C1;
+        color: #666;
       }
 
     .site .footer .rss {

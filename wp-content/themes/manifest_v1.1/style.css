@@ -219,6 +219,7 @@ input[type=submit]:focus{
   border-top: 1px solid #EAEAEA;
   border-bottom: 1px solid #EAEAEA;
   vertical-align: middle;
+  visibility: hidden;
 }
 #mainNav ul{
 //  margin: 0 auto;
