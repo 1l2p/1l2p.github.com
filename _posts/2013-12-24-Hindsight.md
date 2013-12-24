@@ -4,7 +4,7 @@ title: Hindsight
 ---
 # Hindsight
 
-In hindsight everything makes sense. Clear patterns emerge and tempt us a into predictions of the future. 
+In hindsight everything makes sense. Clear patterns emerge and tempt us into predictions of the future. 
 
 But does scientific discovery really start with a clear hypothesis, does great impact really start with ambitious goals (such as the often repeated Media Lab mantra of improving 1B peoples lives), and do great investment successes really begin with insightful analysis of the economic dynamics?
 
