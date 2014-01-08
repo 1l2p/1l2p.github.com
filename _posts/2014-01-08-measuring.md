@@ -3,7 +3,7 @@ layout: post
 title: "Limits to measuring"
 tags: data blog feed 
 ---
-What are the limits to measurement? Considering just two examples, GDP and standardized test scores, we are severely limited in what we are able to measure, and at the same time, attribute almost perfect reliability and importance to our measurements. 
+What are the limits to measurement? Considering just two examples, GDP and standardized test scores, we have limited ability to measure what matters, but almost unlimited faith in the reliability and importance of our measurements. 
 
 GDP is staggeringly imprecise. It doesn’t include the services we provide without payment (such as editing wikipedia or contributing to open source software projects). Likewise, it didn't include the labour provided by women who looked after children and households until those services were outsourced. It suggests that it is better to work late, get drunk, smash your car and rack up a large hospital bill, than to take the subway home, cook dinner with your family and go to bed after reading bed time stories from library books. Yet, GDP is the de facto measure of economic development (and by proxy success and well-being) and the No. 1 driver of macro economic policy. 
 
