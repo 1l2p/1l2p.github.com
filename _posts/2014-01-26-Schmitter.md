@@ -2,7 +2,7 @@
 layout: post
 title: The Schmitter Sandwich 
 ---
-The Schmitter. Philadelphia's big league sandwich. Or something like that. In fact, the Schmitter is a variation on the famous Philly cheesesteak. It was created at [McNally's Tavern](http://www.mcnallystavern.com/) for a regular guest, who drank nothing but Schmitt beer. 
+**The Schmitter.** Philadelphia's big league sandwich. Or something like that. In fact, the Schmitter is a variation on the famous Philly cheesesteak. It was created at [McNally's Tavern](http://www.mcnallystavern.com/) for a regular guest, who drank nothing but Schmitt beer. 
 
 I've never had Schmitt beer, but when Anne McNally found out that my last name was Schmidt (close enough) she organized me an honorary Schmitter sandwich t-shirt right away.
 
