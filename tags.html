@@ -3,11 +3,13 @@ layout: default
 title: 1L2P - Philipp Schmidt - Posts ordered by tag
 ---
 Tags
+
 {% capture tags %}
   {% for tag in site.tags %}
     {{ tag[0] }}
   {% endfor %}
 {% endcapture %}
+
 {% assign sortedtags = tags | split:' ' | sort %}
 
 {% for tag in sortedtags %}
