@@ -2,7 +2,6 @@
 layout: default
 title: 1L2P - Philipp Schmidt - Posts ordered by tag
 ---
-Tags
 
 {% capture tags %}
   {% for tag in site.tags %}
@@ -14,7 +13,7 @@ Tags
 
 {% for tag in sortedtags %}
   Tag:<b> {{ tag }} </b><br>
-  <h3 id="{{ tag }}">Tag: {{ tag }}</h3>
+<!--  <h3 id="{{ tag }}">Tag: {{ tag }}</h3> --> 
   <ul>
   {% for post in site.tags[tag] %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
