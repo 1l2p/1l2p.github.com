@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Good people of P2PU, I thank you! 
+comments: true
 ---
 Cross posted from [P2PU blog][16], which also supports comments. 
 

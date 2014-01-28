@@ -2,6 +2,7 @@
 layout: post
 title: "Limits to measuring"
 tags: data blog feed 
+comments: true
 ---
 What are the limits to measurement? Considering just two examples, GDP and standardized test scores, we have limited ability to measure what matters, but almost unlimited faith in the reliability and importance of our measurements. 
 

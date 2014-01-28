@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hindsight
+comments: true
 ---
 # Hindsight
 
