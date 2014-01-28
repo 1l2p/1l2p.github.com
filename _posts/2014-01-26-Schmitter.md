@@ -21,7 +21,7 @@ In the early 20th century the Philadelphia trolley (street car) ran all the way 
 
 ![McNallys Outside](https://dl.dropboxusercontent.com/u/920614/Blog-Images/mcnallys-outside.JPG)
 
-Anne McNally too over a few years ago, despite the fact that she has three brothers (two of whom are chefs) and when you see her talking about the Tavern and chatting with patrons you understand why. You can't imagine anyone doing a better job at keeping the tradition alive, and having a great time doing it. 
+Anne McNally took over the restaurant a few years ago (maybe a little surprising given that she has three brothers, two of whom are chefs) and when you see her talking about the Tavern and chatting with patrons you understand why. You can't imagine anyone doing a better job at keeping the tradition alive, and having a great time doing it. 
 
 The Schmitter gets all the attention, but the carrot cake deserves some, too. It's home baked (and at McNally's "home-baked" is not just a marketing slogan). Each day at 4am Anne's sister checks her voice mail to find out how many cakes are left at the Tavern and then bakes more chocolate or carrot cakes for the day. I didn't get to try the chocolate cake, but managed to squeeze in a slice of carrot cake on top of the Schmitter. It was worth it. Despite the fact that it comes without nuts or raisins (I usually prefer it with) it was exactly what a carrot cake should be - perfect balance between moist and dry, with a generous but not overwhelming layer of frosting. Kira (from John and Kira's chocolates) says that John and their son are on the quest for the best carrot cake in Philadelphia, and McNally's is the front-runner. There you have it. 
 
