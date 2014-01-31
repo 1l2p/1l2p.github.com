@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TITLE 
+title: The Peer Learning Pyramid (Scheme) 
 comments: true
 tags: learning 
 ---
