@@ -16,7 +16,7 @@ And then a question about CC licenses derails everything. Again. We've been here
 
 This morning we searched the webs for a picture to include in an upcoming report. We assumed that CC BY was ok, even though the report would be licensed as CC BY SA. 
 
-When P2PU chose CC BY SA as our default license, we did so mainly for three reasons: (1) So we could include Wikipedia materials, which are licensed CC BY SA, in P2PU courses.  And (2) So we could include other more liberally (CC BY) licensed materials in our courses. (3) We thought CC BY SA would provide an extra layer of protection for the materials contributed by our users. (The third point is not relevant to the discussion today).
+When P2PU chose CC BY SA as our default license, we did so mainly for three reasons: (1) So we could include Wikipedia materials, which are licensed CC BY SA, in P2PU courses.  (2) So we could include other more liberally (CC BY) licensed materials in our courses. (3) We thought CC BY SA would provide an extra layer of protection for the materials contributed by our users. (The third point is not relevant to the discussion today).
 
 Back to this morning, when we noticed that the [CC BY legal code](http://creativecommons.org/licenses/by/3.0/legalcode) states that "You may Distribute or Publicly Perform the Work only under the terms of this License." To the non-legal eye that seems to say, you have to always license downstream works as CC-BY. Which is different from what we thought. 
 
