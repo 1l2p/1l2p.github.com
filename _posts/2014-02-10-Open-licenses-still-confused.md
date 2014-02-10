@@ -20,7 +20,9 @@ When P2PU chose CC BY SA as our default license, we did so mainly for three reas
 
 Back to this morning, when we noticed that the [CC BY legal code](http://creativecommons.org/licenses/by/3.0/legalcode) states that "You may Distribute or Publicly Perform the Work only under the terms of this License." To the non-legal eye that seems to say, you have to always license downstream works as CC-BY. Which is different from what we thought. 
 
-Quick question to the [twitter verse supported our original reading](https://dl.dropboxusercontent.com/u/920614/Blog-Images/cc-by-or-not.png) of the license, e.g. we can combine CC BY licensed materials with our content and license the result as CC BY SA. Or maybe it just shows that others are also confused. 
+Quick question to the twitter verse supported our original reading of the license, e.g. we can combine CC BY licensed materials with our content and license the result as CC BY SA. Or maybe it just shows that others are also confused. 
+
+![Twitter Question](https://dl.dropboxusercontent.com/u/920614/Blog-Images/cc-by-or-not.png)
 
 # Here is what's important > It's a waste of time
 
