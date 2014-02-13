@@ -2,7 +2,7 @@
 layout: post
 title: Marko Athisaari at the Media Lab 
 comments: true
-tags: learning, medialab
+tags: learning medialab
 ---
 **Director's Fellow Marko Ahtisaar at the Media Lab**
 
