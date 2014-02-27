@@ -9,7 +9,7 @@ tags: technology LCL2
 
 [Learning Creative Learning](http://learn.media.mit.edu) is a collaboration between the MIT Media Lab and Peer 2 Peer University. Last year we ran the course for 25,000 educators largely on G+ communities and Google Hangouts (and we hosted a static website on heroku). This year we decided to make some changes. 
 
-Dirk Uys, the P2PU tech lead, asked me a few questions about the technology choices we had made and we ended up "talking" on a hackpad. I thought this information might be interesting for other people, and decided to export the hackpad as markdown and paste it below. I used the very nifty Chrome extension for hackpad exports (which has a few small bugs, e.g. it doesn't handle multi-level lists very well yet). 
+Dirk Uys, the P2PU tech lead, asked me a few questions about the technology choices we had made and we ended up "talking" on a hackpad. I thought this information might be interesting for other people, and decided to export the hackpad as markdown and paste it below. I used the very nifty Chrome extension for [hackpad downloads](https://chrome.google.com/webstore/detail/hackpad-downloader/jhkfiecgggifjcoliemlcajokapmcpih?hl=en) (which has a few small bugs, e.g. it doesn't handle multi-level lists very well yet). 
 
 Where is the course site hosted?
 
