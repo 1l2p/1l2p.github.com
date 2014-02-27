@@ -11,6 +11,8 @@ tags: technology LCL2
 
 Dirk Uys, the P2PU tech lead, asked me a few questions about the technology choices we had made and we ended up "talking" on a hackpad. I thought this information might be interesting for other people, and decided to export the hackpad as markdown and paste it below. I used the very nifty Chrome extension for [hackpad downloads](https://chrome.google.com/webstore/detail/hackpad-downloader/jhkfiecgggifjcoliemlcajokapmcpih?hl=en) (which has a few small bugs, e.g. it doesn't handle multi-level lists very well yet). 
 
+This is NOT the definitive technology spec for the course. It's just our thinking right now. We will learn things along the way and make changes. If you have questions about the technology, feel free to leave a comment below or post in the [course discussion forum](http://discuss-learn.media.mit.edu).
+
 Where is the course site hosted?
 
 *   It's a Jekyll site hosted as Github Pages
