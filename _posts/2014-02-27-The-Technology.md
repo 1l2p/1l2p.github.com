@@ -70,8 +70,8 @@ What are you planning to use to facilitate feedback?
 Will learners have some sort of profile? Or would you encourage them to update some profile in a certain way (ex. add a project or something to their profile on linkedin).
 
 *   We won't host a profile beyond the very basic profile provided by Discourse. If there was an easy and elegant way of extending that, I think we would prefer to be able to host more information. 
-*   Do you think people taking this course would have an online profile somewhere else that they manage themselves?
-   * I am not sure. 
+* Do you think people taking this course would have an online profile somewhere else that they manage themselves?
+    * I am not sure. 
 
 What happens with discourse after the course? How long do you host it?
 
@@ -88,7 +88,7 @@ What is the primary user experience for learners? Sign up -> get email when cour
 
 * I imagine different users will have different experiences, including:
    * Traditional learner: Sign-up, get emails, join "live" seminar (or watch recording), do activity, share on discourse
-    * Opportunistic learner: Find course overview on course home, join some of the seminars, participate in some of the activities, use discourse for general discussion, not only tied to activities
+   * Opportunistic learner: Find course overview on course home, join some of the seminars, participate in some of the activities, use discourse for general discussion, not only tied to activities
 
 What is the main entry point for users? The mailchimp list or joining the discourse community? (probably ties into above)
 
