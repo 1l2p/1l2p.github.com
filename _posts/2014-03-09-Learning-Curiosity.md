@@ -5,7 +5,9 @@ comments: true
 tags: learning 
 ---
 
-I like the term curious, because it describes both seeking knowledge, and a certain level of weirdness. I am a curious learner. 
+# Curious Learner
+
+I like the term curious, because it describes both seeking knowledge, and a certain level of weirdness. I am a curious learner. I find it hard to stay within the confines of one discipline. 
 
 I also associate curiousity with the New Yorker. I suspect the main reason why I have been a passionate subscriber for many years is that the magazine exercises my curiosity. There have been numerous times when I found myself absorbed in a long article on a topic I thought I had no interest in - only to discover that **everything is interesting**.
 
