@@ -5,13 +5,11 @@ tags: learning experts
 ---
 # Not a huge fan
 
-For someone interested in learning, becoming an expert is a very dangerous thing. I the words of Frank Lloyd Wright "an expert is a man who has stopped thinking because 'he knows.'
+For someone interested in learning, becoming an expert is a very dangerous thing. I the words of Frank Lloyd Wright "an expert is a man who has stopped thinking because 'he knows.'"
 
-Yet the education and learning experts are occupied trying to measure and compare what we know. Clearly at age 5,10, or 15 we will not already know all the things we will know. Wouldn't it therefore make more sense trying to measure the things we night be capable of knowing - a function of our a ability to ask questions and pursue their answers? A function of our curiosity. 
+Yet the education and learning experts are occupied trying to measure and compare 'what we know'. Is that the right approach? We will have aquired some stock of knowledge by the time we are tested - at age 5, 10, or 15 - but is our performance truly a reliable predictor of our future learning? I am more interested in what someone is capable of knowing in the future - a function of our a ability to ask questions and pursue their answers? A function of our curiosity. Trying to do well on the standardized tests might diminuish our sense of curiosity, because instead of following our own passions, we focus on mastering a stock of knowledge that others decided were important. 
 
-Yes it would but this is where the whole learning analytics and measurement frameworks come crashing down. Because is it even possible to "measure" curiosity or doesn't the simple attempt make it disappear?
-
-That might be the kind of question the experts won't ask, only the amateurs will. 
+This is where the whole learning analytics and measurement frameworks come crashing down. Because it isn't even possible to "measure" curiosity. The simple attempt makes it disappear.
 
 # Background
 
