@@ -13,7 +13,7 @@ This is where the whole learning analytics and measurement frameworks come crash
 
 # Background
 
-I was inspired to write about amateurs by today's [brainpickings post](http://www.brainpickings.org/index.php/2014/03/12/austin-kleon-show-your-work/) and by my experience speaking at the congress of the German Association of Learning Sciences (Deutsche Gesellschaft für Erziehungswissenschaften). I started off by saying that I was not a huge fan of experts and went on to talk about peer learning. Some of the experts in the room didn't agree and we ended up having a great conversation about the pros and cons of having experts involved in the work of learners. My take awaysare that it is important to distinguish between subject matter experts and facilitators, and that I need to set up my definitions of experts and amateurs earlier on in the talk. 
+I was inspired to write about amateurs by today's [brainpickings post](http://www.brainpickings.org/index.php/2014/03/12/austin-kleon-show-your-work/) and by my experience speaking at the congress of the German Association of Learning Sciences (Deutsche Gesellschaft für Erziehungswissenschaften). I started off by saying that I was not a huge fan of experts and went on to talk about peer learning. Some of the experts in the room didn't agree and we ended up having a great conversation about the pros and cons of having experts involved in the work of learners. My take aways are that it is important to distinguish between subject matter experts and facilitators, and that I need to set up my definitions of experts and amateurs earlier on in the talk. 
 
 Here is to asking more questions. As Esther Dyson's email footer used to say "Make new mistakes every day". 
 
