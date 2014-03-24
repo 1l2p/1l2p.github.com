@@ -13,7 +13,7 @@ Airline travel is different. I know that my travel is more comfortable and less 
 
 In both of these cases I struggle with the combination of imperfect information and the strong desire to make a good decision, which makes it difficult to calculate at which point further effort only produces diminishing returns. As Ghost Dog, in the wonderful Jim Jarmusch film, says one should make decisions [within the space of 7 breaths](http://en.m.wikiquote.org/wiki/Ghost_Dog:_The_Way_of_the_Samurai). I always loved that principle, even though I so thoroughly struggle to apply it my choice of burger. Or maybe rather the Reuben sandwich? And I don't think one should really make all decisions within 7 breaths (especially if those breaths have even a hint of bourbon in them). 
 
-In any case, I started reading [The Art of Choosin](http://www.amazon.com/gp/aw/d/0446504114?pc_redir=1395427836&robot_redir=1) which, I hope, will provide both intellectual grounding and some real world examples. I think I'll go with the Reuben... 
+In any case, I started reading [The Art of Choosing](http://www.amazon.com/gp/aw/d/0446504114?pc_redir=1395427836&robot_redir=1) which, I hope, will provide both intellectual grounding and some real world examples. I think I'll go with the Reuben... 
 
 
 
