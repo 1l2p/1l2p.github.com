@@ -4,8 +4,7 @@ title: Big news in the MOOC world
 comments: true
 tags: learning mit ocw mooc coursera edx
 ---
-Big news in the MOOC space today: 
-(http://recode.net/2014/03/24/coursera-brings-in-longtime-yale-president-rick-levin-as-ceo/)[http://recode.net/2014/03/24/coursera-brings-in-longtime-yale-president-rick-levin-as-ceo/]
+Some big news in the MOOC space today: [http://recode.net/2014/03/24/coursera-brings-in-longtime-yale-president-rick-levin-as-ceo/](http://recode.net/2014/03/24/coursera-brings-in-longtime-yale-president-rick-levin-as-ceo/)
 
 Of the MOOC projects, coursera has always been the best at execution and growth, but this is a big deal. This says to me, that they might just make it across the crest of the hype wave before it comes down. 
 
