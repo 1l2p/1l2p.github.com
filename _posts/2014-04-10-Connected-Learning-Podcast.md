@@ -4,6 +4,8 @@ title: Connected Learning intervew
 comments: true
 tags:
 ---
+Jon Barilone from the Connected Learning Alliance sent me a few interview questions for a podcast. In order to collect my thoughts, I decided to prepare some notes. The notes got longer, and eventually seemed like something I should just post here. It's pretty rough, and I apologize for any typos or errors you might find. 
+
 **1. Could you explain a little more about how “peer-to-peer learning” and “open learning” benefits young learners?**
 
 Your peers are important not just for young people, although the importance of your peer group might more important at certain stages in your life. Maybe you just give less of a damn when you are older? 
