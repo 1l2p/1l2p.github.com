@@ -35,6 +35,7 @@ I would like to see more leadership in this space coming from those who care mos
 I think relevance is key for everyone and any kind of learning. Why would you learn something that doesn't connect to you in any meaningful way? If you have no interest in the topic whatsoever, the only reason to learn that remains is to please your teacher or parents. That's not a great motivator - and as I know from my own experience - you tend to develop strategies that let you do well in the system, but don't actually lead to much learning. 
 
 And I don't actually like that framing. I don't think the 3Rs are the core basics. I think it's the skills and practices of being a better learner that are the real basics. 
+
 **4. Even though more young people have access to post-secondary education than ever before, it seems we’re still a long way from college being ‘the great equalizer.’ How do you think our education system, and the way we think about learning in general, must evolve in order to deal with this equity issue?**
 
 Equity is a very big issue. I don't think it can be solved by one institution without taking into account other broader factors of socio-economic equity. Kids of low-income families are not going to have the same opportunities as kids from middle-class families. And when a CEO can make a few thousand times the salary of the lowest paid salary of someone in the company - then something is just broken about how we value human beings. 
@@ -42,6 +43,7 @@ Equity is a very big issue. I don't think it can be solved by one institution wi
 But at the same time the system should do a lot more to try and provide good opportunities to everyone. And I think this is a political failure, rather than a school or university failure. I think it's something that a society has to decide how it wants to deal with. I grew up in a country where good public education is the norm. This idea that you would privatize something as important as education is foreign to me - and I don't understand why voters in the US don't demand better education. It really makes me sad to see a great public university system like California straining from budget cuts ... and then seeing the outrageous salaries that football coaches make. It doesn't make any sense to me. 
 
 So, with P2PU I am trying to provide more equity and access, using technology and the generosity of people who want to share their learning and help others - but I am not doing it to dismantle the existing institutions. 
+
 
 **5. Paint us a quick picture of the future for you and Peer2Peer University. It’s 10 years from now and you’ve accomplished everything you’ve wanted to with P2PU -- how has the world changed because of it?**
 
