@@ -17,6 +17,6 @@ When we started [Peer 2 Peer University/P2PU](http://p2pu.org) I tried to convin
 
 The real problem is that "disruption" has become the defense and guise for unethical business practices. It was never intended this way, and it is unfair to blame Christensen for the misdeeds of business people, who would have just found some other slogan to use for exploiting others. 
 
-For what it's worth, I met Christensen in person a few years ago, and found him genuine and truly interested in understanding the prcoess of innovation. And I admit I'm easily influenced by my gut feeling ;-)
+For what it's worth, I met Christensen in person a few years ago, and found him genuine and truly interested in understanding the process of innovation. And I admit I'm easily influenced by my gut feeling ;-)
 
 
