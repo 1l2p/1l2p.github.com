@@ -16,7 +16,7 @@ A few personal favorites (I'll try to keep the list updated).
 
 **Render** - Really good coffee, minus the attitude you encounter in (almost) every other good coffee shop in Boston. (South End) 
 
-**Row 34** - Run by the same people as Island Creek Oyster Bar (see above). More industrial with slightly different menu in hip neighborhoos. The food is just as awesome! (Fort Point Channel)
+**Row 34** - Run by the same people as Island Creek Oyster Bar (see above). More industrial with slightly different menu in hip neighborhood. The food is just as awesome! (Fort Point Channel)
 
 **Sportello** - Have only been once, but loved the decor and food. Simple Italian dishes with an effortlessly cool vibe. (Fort Point Channel)
 
