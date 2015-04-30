@@ -14,7 +14,7 @@ That’s an irresistible question for someone like me, who got hooked on the ide
 
 So, here is one piece of what I think the answer to Mark’s question is: An Institute within the Mozilla Academy that focuses on high-end developer training, for a new generation of inventors and designers, who will build future open technologies. 
 
-If the Mozilla Academy has two columns, technology and society, then I see the Institute at the top end of the technology column. It’s not the only piece of the Academy and it’s one important piece, and it’s also a piece that Mozilla might be best positioned to tackle right now. 
+If the Mozilla Academy has two columns, technology and society, then I see the Institute at the top end of the technology column. It’s not the only piece of the Academy, but it’s an important piece, and it’s also a piece that Mozilla might be best positioned to tackle right now. 
 
 **Feel free to scroll down to the end** if you want to see a blueprint of the institute right away. Or read on if you want the whole argument why I think it’s important to do and how. 
 
