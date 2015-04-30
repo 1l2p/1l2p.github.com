@@ -12,9 +12,11 @@ A few weeks ago, Mark presented [a vision for Mozilla to keep the web open](http
 
 That’s an irresistible question for someone like me, who got hooked on the idea of the open web in the mid-90s, grew up through the early days of the Internet, and spent the last 15 years wielding the web to open up opportunities for people to learn. 
 
-So, here is one piece of what I think the answer to Mark’s question is: An Institute within the Mozilla Academy that focuses on high end developer training for the next generation of inventors and designers that build the next open web. 
+So, here is one piece of what I think the answer to Mark’s question is: An Institute within the Mozilla Academy that focuses on high-end developer training, for a new generation of inventors and designers, who will build future open technologies. 
 
 If the Mozilla Academy has two columns, technology and society, then I see the Institute at the top end of the technology column. It’s not the only piece of the Academy and it’s one important piece, and it’s also a piece that Mozilla might be best positioned to tackle right now. 
+
+**Feel free to scroll down to the end** if you want to see a blueprint of the institute right away. Or read on if you want the whole argument why I think it’s important to do and how. 
 
 I’m using the working title Mozilla Institute of Technology, because I happen to work at the other MIT ([Media Lab](http://learn.media.mit.edu/)) and find it funny, but also because I think it creates roughly the right set of expectations. 
 
@@ -44,9 +46,9 @@ Mozilla has always played a unique role at this intersection of how the design o
 
 Such an institute would be the training ground for inventors who can design and shape the next open web. For developers who care not only about the intricacy of encryption algorithms, but who understand the ethical implications of their designs, and are excited by the influence their technology could have on making the world a better place. 
 
-Below is a rough concept note, not more. I hope this is a useful direction of the conversation and can influence what shape the Mozilla Academy will take. 
+Below is a rough concept note. It doesn’t have much detail yet, and that’s intended. I hope it’s a useful contribution to a bigger conversation about the shape Mozilla Academy will take. 
 
-**Institute of Technology - Value proposition**
+**Mozilla Institute of Technology**
 
 Offering the best possible training program for technology architects, designers and developers. Going back to Mark’s three levels (literacy, skill, craft) the Institute would focus on the craft level. It would be open to anyone, but designed for advanced technologists, and not intended as an entry-level program. 
  
@@ -80,5 +82,4 @@ Graduates have excellent career prospects, deep technology skills, an amazing ne
 
 * Portfolios demonstrate mastery (instead of degrees)
 * Job fairs, and internships, offer connections to employers throughout 
-
 
