@@ -6,15 +6,15 @@ tags:
 ---
 # A Mozilla Institute of Technology
 
-*TL;DR - Mozilla should create an Mozilla Developer Institute in order to train the next generation of technology inventors. It would be easy to bootstrap with existing resources.*. 
+*TL;DR - Why Mozilla should create an Mozilla Developer Institute in order to train the next generation of technology inventors. And how Mozilla could do this by building on existing resources.*. 
 
-A few weeks ago, Mark presented [a vision for Mozilla to keep the web open](https://commonspace.wordpress.com/2015/03/31/building-an-academy/) which includes a concept he calls Mozilla Academy or Mozilla University. And he asked “What does a Mozilla Academy look like?”
+A few weeks ago, Mark presented a vision for Mozilla to keep the web open, which includes a concept he calls [Mozilla Academy](https://commonspace.wordpress.com/2015/03/31/building-an-academy/). And he asked “What does a Mozilla Academy look like?”
 
 Here is one piece of the answer: 
 
 Within the broader Academy framework, Mozilla could launch a Mozilla Developer Institute that focuses on high-end training for the developers and engineers who will build the open technology infrastructure of the future. 
 
-Such an institute would serve an important need. And it’s an idea that Mozilla would be well positioned to pursue. And it’s something the MIT Media Lab might be able to help with. 
+Such an institute would serve an important need. It’s an idea that Mozilla would be well positioned to pursue. And it’s something the MIT Media Lab (where I work) might be able to help with. 
 
 
 **Mozilla Institute of Technology**
