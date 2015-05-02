@@ -4,7 +4,7 @@ title: Mozilla Developer Institute
 comments: true
 tags:
 ---
-# A Mozilla Institute of Technology
+# A Mozilla Developer Institute
 
 *TL;DR - Why Mozilla should create an Mozilla Developer Institute in order to train the next generation of technology inventors. And how Mozilla could do this by building on existing resources.* 
 
