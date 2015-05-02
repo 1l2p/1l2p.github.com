@@ -12,9 +12,9 @@ A few weeks ago, Mark blogged about a concept called [Mozilla Academy](https://c
 
 Here is one piece of the answer: 
 
-Within the broader Academy framework, Mozilla could launch a Mozilla Developer Institute that focuses on high-end training for the developers and engineers who will build the open technology infrastructure of the future. 
+Within the broader Academy framework, Mozilla could launch a Mozilla Developer Institute that provides high-end training for technologists, who will create the open technology infrastructure of the future. 
 
-Such an institute would serve an important need. It’s an idea that Mozilla would be well positioned to pursue. And it’s something the MIT Media Lab (where I work) might be able to help with. 
+Such an institute would serve an important need. It's an idea that Mozilla would be well positioned to pursue. And it’s something the MIT Media Lab (where I work) might be able to help with. 
 
 
 **Mozilla Institute of Technology**
