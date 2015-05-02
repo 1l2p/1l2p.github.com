@@ -22,8 +22,7 @@ Such an institute would serve an important need. It's an idea that Mozilla would
 Creating a top training program for technology architects, designers and developers. The Institute is designed for advanced technologists, but all content is shared openly, and learning happens in the open so that others can build on it. 
 
 The Institute offers:
- 
-* A path to mastering today’s cutting edge technologies (full-stack web development, mobile, blockchain …)
+
 * A better alternative to expensive outdated university programs, or to bootcamp style start-up programs. Graduates will have excellent career prospects. 
 * A flexible curriculum and format, that emphasizes the broader context of technology design, and adapts to the time and location-preferences of its learners. 
 * Access to a community of top developers who care about the influence of technology on the world they live in. 
@@ -50,7 +49,8 @@ The Institute doesn’t need to be a huge new undertaking. It can get started qu
 
 Graduates have excellent career prospects, deep technology skills, an amazing network of Mozillians, and a well rounded understanding of the challenges and power of designing technology for millions of users. 
 
-* Portfolios demonstrate mastery (instead of degrees).
+* Graduates have mastered today’s cutting edge technologies (full-stack web development, mobile, blockchain …)
+* Portfolios demonstrate their skills and accomplishments (instead of degrees).
 * Job fairs, and internships, offer connections to employers throughout the program. 
 
 
@@ -59,8 +59,7 @@ Graduates have excellent career prospects, deep technology skills, an amazing ne
 
 **Background, details, context…** 
 
-I am mainly interested in comments and reactions to the above part, but if you’d like to find out more about the background of this idea, why I think it’s important, and why Mozilla could be in a unique position to tackle this problem, feel free to read on.
-
+I am mainly interested in comments and reactions to the above part, but if you’d like to find out more about the background of this idea, why I think it’s important, and why Mozilla could be in a unique position to tackle this problem, feel free to read on. 
 
 *The problem with technology training*
 
@@ -72,7 +71,6 @@ The ability to shape behavior through technology infrastructure is both uniquely
 
 Most technology training doesn’t cover this. Not coincidentally, [Lessig](http://en.wikipedia.org/wiki/Lawrence_Lessig) teaches at Harvard Law School, not in the CS department. 
 
-
 *Why Mozilla*?
 
 Mozilla has always played a unique role at the intersection of technology and society. And Mozilla has directly shaped many of the technologies that allowed people like me to use technology for social good. For example, [the open web created mind-boggling opportunities](https://ocw.mit.edu) to increase access to learning and education. 
@@ -83,8 +81,7 @@ Future technology infrastructure is unlikely to look anything like the web we ha
 
 That’s why we need to train a community of technology experts who understand the great influence of their design decisions, and who are excited by the opportunity to use technology to create a better world. 
 
-
-*How the institute directly supports Mozilla’s mission*
+*How a Developer Institute would support Mozilla’s mission*
 
 Given Mozilla’s mission to keep the web open, it can pull different levers to achieve this. One lever is a community of innovators, whose work demonstrates the social value of having an open infrastructure. They “wield the web” to build better election systems, better newspapers, and better ways to do science. Another lever is a mass movement of people who are informed users, to the point, where they care about the openness of the web and would contribute in political action to stop initiatives like SOPA. Mozilla is already doing good work in both of these areas. 
 
