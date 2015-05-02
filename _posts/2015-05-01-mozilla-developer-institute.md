@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mozilla Institute of Technology
+title: Mozilla Developer Institute
 comments: true
 tags:
 ---
