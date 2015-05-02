@@ -6,80 +6,88 @@ tags:
 ---
 # A Mozilla Institute of Technology
 
-*TL;DR - Why Mozilla should create an Institute of Technology in order to train the next generation of technology inventors. And why Mozilla is ideally positioned to do this. Now*. 
+*TL;DR - Mozilla should create an Mozilla Developer Institute in order to train the next generation of technology inventors. It would be easy to bootstrap with existing resources.*. 
 
-A few weeks ago, Mark presented [a vision for Mozilla to keep the web open](https://commonspace.wordpress.com/2015/03/31/building-an-academy/) which would build on a concept he calls Mozilla Academy or Mozilla University. And he asked “What does a Mozilla Academy look like?”
+A few weeks ago, Mark presented [a vision for Mozilla to keep the web open](https://commonspace.wordpress.com/2015/03/31/building-an-academy/) which includes a concept he calls Mozilla Academy or Mozilla University. And he asked “What does a Mozilla Academy look like?”
 
-That’s an irresistible question for someone like me, who got hooked on the idea of the open web in the mid-90s, grew up through the early days of the Internet, and spent the last 15 years wielding the web to open up opportunities for people to learn. 
+Here is one piece of the answer: 
 
-So, here is one piece of what I think the answer to Mark’s question is: An Institute within the Mozilla Academy that focuses on high-end developer training, for a new generation of inventors and designers, who will build future open technologies. 
+Within the broader Academy framework, Mozilla could launch a Mozilla Developer Institute that focuses on high-end training for the developers and engineers who will build the open technology infrastructure of the future. 
 
-If the Mozilla Academy has two columns, technology and society, then I see the Institute at the top end of the technology column. It’s not the only piece of the Academy, but it’s an important piece, and it’s also a piece that Mozilla might be best positioned to tackle right now. 
+Such an institute would serve an important need. And it’s an idea that Mozilla would be well positioned to pursue. And it’s something the MIT Media Lab might be able to help with. 
 
-**Feel free to scroll down to the end** if you want to see a blueprint of the institute right away. Or read on if you want the whole argument why I think it’s important to do and how. 
-
-I’m using the working title Mozilla Institute of Technology, because I happen to work at the other MIT ([Media Lab](http://learn.media.mit.edu/)) and find it funny, but also because I think it creates roughly the right set of expectations. 
-
-*The future of open technology is uncertain*
-
-Mozilla has played a key role in creating the technologies that enabled me to work on things I cared about. My passion has been to increase access to education and learning, and the open web created mind-boggling opportunities to do this at scale. So, first of all, thank you!
-
-But with the emergence of mobile technology and silo’ed ecosystems, we risk that our technology infrastructure is increasingly being closed off. And I am concerned that leading technologists [shrug it off](https://medium.com/@johnolilly/on-inevitability-pendula-41a5e59c3ba3) as an inevitable step in the evolution of technological systems. I am not saying this out of nostalgia or to lament the decline of the open web. But to make a point about the role of Mozilla. 
-
-I hope Mozilla will play an even more important role in shaping the technology of the future, as it has played in shaping the open web of the past. I agree that it’s important to preserve the core open aspects of today’s infrastructure, but it’s equally to design the open infrastructure of the future. 
-
-We can do this, by training a community of technology inventors and designers who understand the great influence of their design decisions. And who are excited by the opportunity to use technology to create a better world. 
-
-*Why the technology designers are so important* 
-
-Photography was invented by photographers. And it went from a highly specialized tool for a few experts to becoming an integral part of human expression for everyone. Tools that are developed by their users tend to serve the interests of these users. Similarly, the web was invented by the people who were its first users. They were engineers and scientists, and they understood how the web would change their work (and the world) forever. They were thoughtful about the far reaching implications of their design decisions. 
-
-But TV was invented by business people. It was never designed for democratic use, but for central organization. Had the inventors of the web been business people, they too might have thought more about its potential to generate profit rather than its value to society. Had they been business people, the open web may have never happened. 
-
-The next technology infrastructure is unlikely to look anything like the web we have today. It might look like [the blockchain](http://bollier.org/blog/blockchain-promising-new-infrastructure-online-commons). Or something else altogether. But whatever the next open web may be, we will need thoughtful technology inventors to be involved in its core development right from the start. Technologists who design for participation and who understand the benefits an open technology infrastructure has for society. 
-
-*The problem with technology training*
-
-Unfortunately the way we train technologists today, doesn’t prepare them to consider the wider implications of their design decisions. Traditional CS education as well as the growing number of coding bootcamps, focus on technical skills first, and on getting to scale, reaching users, and building start-ups  second. Technology training lacks a nuanced treatment of the far-reaching impact that the design of our technology has on our lives. [Lessig](http://en.wikipedia.org/wiki/Lawrence_Lessig) makes this point better than anyone, but he teaches at Harvard Law School, not in the CS department. 
-
-Mozilla has always played a unique role at this intersection of how the design of technology shapes our society. Few communities understand the interplay between code, law, markets and culture as well as Mozilla. That’s why we need a Mozilla Institute of Technology. 
-
-Such an institute would be the training ground for inventors who can design and shape the next open web. For developers who care not only about the intricacy of encryption algorithms, but who understand the ethical implications of their designs, and are excited by the influence their technology could have on making the world a better place. 
-
-Below is a rough concept note. It doesn’t have much detail yet, and that’s intended. I hope it’s a useful contribution to a bigger conversation about the shape Mozilla Academy will take. 
 
 **Mozilla Institute of Technology**
 
-Offering the best possible training program for technology architects, designers and developers. Going back to Mark’s three levels (literacy, skill, craft) the Institute would focus on the craft level. It would be open to anyone, but designed for advanced technologists, and not intended as an entry-level program. 
+Creating a top training program for technology architects, designers and developers. The Institute is designed for advanced technologists, but all content is shared openly, and learning happens in the open so that others can build on it. 
+
+The Institute offers:
  
 * A path to mastering today’s cutting edge technologies (full-stack web development, mobile, blockchain …)
 * A better alternative to expensive outdated university programs, or to bootcamp style start-up programs. Graduates will have excellent career prospects. 
-* A broad curriculum and experience that appreciates the power of technology design, as well as the social benefits that it enables. 
+* A flexible curriculum and format, that emphasizes the broader context of technology design, and adapts to the time and location-preferences of its learners. 
 * Access to a community of top developers who care about the influence of technology on the world they live in. 
 
-**Hands-on and relevant learning, online & offline**
+**Hands-on relevant learning, online & offline**
 
-Learning doesn’t take place in lectures, but through participation in real projects, that matter, with other developers. 
+Learning doesn’t take place in lectures, but through participation in real meaningful projects, and by working with other developers. 
 
-* Face-to-face masterclasses, offered at Mozilla offices.
-* Student work on "real-world" problems, interacting with the Mozilla developer community.
-* Experienced Mozillians act as mentors and guides.
-* An open library of video tutorials, worked examples, and reference documentation for self-study. 
-* Coding challenges that tackle hard problems, which matter. 
-* A peer-to-peer learning culture and community. 
+* A flexible format, in which students design their own course of study. 
+* Face-to-face masterclasses, and seminars, offered at Mozilla offices.
+* Student work on “real-world” problems, interacting with the Mozilla developer community. Coding challenges offer hard problems to tackle. 
+* A peer-to-peer learning culture and community. Experienced Mozillians act as mentors and guides.
+* An open library of video tutorials, worked examples, and reference documentation for self-study.   
 
-**Bootstrapped by leveraging Mozilla's people and spaces**
+**Bootstrapped by building on existing resources**
 
-The Institute doesn’t need to be a huge new undertaking. By building on the pieces that are already in place, we can get started. 
+The Institute doesn’t need to be a huge new undertaking. It can get started quickly, by building on the pieces that are already in place.
 
-* Knowledge > Build on MDN content, courses, tutorials
-* People > Employees can use 20% flex time to act as mentors, design coding challenges, offer seminars
-* Spaces > Host face-to-face events at Mozilla offices
+* Knowledge > The [Mozilla Developer Network](https://developer.mozilla.org/en-US/) has already developed a vast library of reference and learning materials. And it supports an active community of users, some of whom might be interested in helping design (or participate in) the institute. 
+* People > Tapping into Mozilla’s culture of peer-to-peer learning and open sharing, the institute could quickly launch seminars and mentorship. Mozilla employees and core community members could volunteer as mentors, design coding challenges, and teach master-classes or seminars. 
+* Spaces > Host face-to-face events at Mozilla offices. As a starting point, the institute could simply offer new programming in existing meeting rooms or conference venues. There is no need to invest in expensive real estate. 
 
-**Offering a path to careers and jobs**
+**Offering a path to careers and impact**
 
 Graduates have excellent career prospects, deep technology skills, an amazing network of Mozillians, and a well rounded understanding of the challenges and power of designing technology for millions of users. 
 
-* Portfolios demonstrate mastery (instead of degrees)
-* Job fairs, and internships, offer connections to employers throughout 
+* Portfolios demonstrate mastery (instead of degrees).
+* Job fairs, and internships, offer connections to employers throughout the program. 
+
+
+**Over to you > I’d love to get your reactions to the blueprint above. Does this sound like a useful piece of the overall Mozilla Academy? What’s missing? Which parts make sense, which ones need more work?**
+
+
+**Background, details, context…** 
+
+I am mainly interested in comments and reactions to the above part, but if you’d like to find out more about the background of this idea, why I think it’s important, and why Mozilla could be in a unique position to tackle this problem, feel free to read on.
+
+
+*The problem with technology training*
+
+The way we train technologists today, doesn’t emphasize how broad the impact of their decisions can be on our economy and society. Traditional computer science education as well as the growing number of alternatives, focus on technical skills first (and markets second). 
+
+However, as [Lawrence Lessig has pointed out](http://codev2.cc/download+remix/Lessig-Codev2.pdf), the rise of network technology has upended the traditional ways that society organized behaviors: through norms, markets, laws, and architecture (infrastructure). 
+
+The ability to shape behavior through technology infrastructure is both uniquely *concentrated* (a few developers can develop tools that are used by billions of people), and *influential*: technology can quickly shape new norms (such as widespread file-sharing), create new markets (airbnb), and make it harder to apply existing laws. 
+
+Most technology training doesn’t cover this. Not coincidentally, [Lessig](http://en.wikipedia.org/wiki/Lawrence_Lessig) teaches at Harvard Law School, not in the CS department. 
+
+
+*Why Mozilla*?
+
+Mozilla has always played a unique role at the intersection of technology and society. And Mozilla has directly shaped many of the technologies that allowed people like me to use technology for social good. For example, [the open web created mind-boggling opportunities](https://ocw.mit.edu) to increase access to learning and education. 
+
+However, with the emergence of mobile technology and silo’ed ecosystems, we risk that today’s technology infrastructure is increasingly being closed off. Leading technologists [shrug it off](https://medium.com/@johnolilly/on-inevitability-pendula-41a5e59c3ba3) as an inevitable step in the evolution of technological systems. Others, including Mozilla, are fighting new legislation that would impeded the openness of our infrastructure, and are winning. I think it’s important to preserve the open nature of today’s technology. But it’s equally important to think ahead. 
+
+Future technology infrastructure is unlikely to look anything like the web we have today. It might look like [the blockchain](http://bollier.org/blog/blockchain-promising-new-infrastructure-online-commons). Or something else altogether. Whatever it may be, we will need thoughtful technology inventors to be involved in its core development right from the start. 
+
+That’s why we need to train a community of technology experts who understand the great influence of their design decisions, and who are excited by the opportunity to use technology to create a better world. 
+
+
+*How the institute directly supports Mozilla’s mission*
+
+Given Mozilla’s mission to keep the web open, it can pull different levers to achieve this. One lever is a community of innovators, whose work demonstrates the social value of having an open infrastructure. They “wield the web” to build better election systems, better newspapers, and better ways to do science. Another lever is a mass movement of people who are informed users, to the point, where they care about the openness of the web and would contribute in political action to stop initiatives like SOPA. Mozilla is already doing good work in both of these areas. 
+
+The third lever is the space that the Mozilla Institute would focus on. It’s the small group of engineers who are designing and building the technology that the “wielders” and “users” will have at their disposal.
+
 
