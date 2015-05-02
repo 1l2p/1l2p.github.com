@@ -6,7 +6,7 @@ tags:
 ---
 # A Mozilla Institute of Technology
 
-*TL;DR - Why Mozilla should create an Mozilla Developer Institute in order to train the next generation of technology inventors. And how Mozilla could do this by building on existing resources.*. 
+*TL;DR - Why Mozilla should create an Mozilla Developer Institute in order to train the next generation of technology inventors. And how Mozilla could do this by building on existing resources.* 
 
 A few weeks ago, Mark presented a vision for Mozilla to keep the web open, which includes a concept he calls [Mozilla Academy](https://commonspace.wordpress.com/2015/03/31/building-an-academy/). And he asked “What does a Mozilla Academy look like?”
 
