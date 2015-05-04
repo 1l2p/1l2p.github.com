@@ -11,9 +11,9 @@ title: 1L2P - Philipp Schmidt
 
 <div id="home">
   Welcome to the humble online abode of <a href="about.html">J. Philipp Schmidt</a>
-  <h1>Blog</h1>
+  <h1>Blog (5 most recent)</h1>
   <ul class="posts">
-    {% for post in site.posts %}
+    {% for post in site.posts limit:5 %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
