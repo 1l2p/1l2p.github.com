@@ -6,6 +6,8 @@ tags: nyc food
 ---
 # Eating in NYC 
 
+Also check out: [Eating in Berlin](http://1l2p.net/2014/06/06/Eating-in-Berlin.html)
+
 A few personal favorites (I'll try to keep the list updated)
 
 **Rebelle** - Fancy, but not schmancy, or overly expensive. Great french food by an American chef. Amazing wine list and staff who love to geek out on the funkier side of the cellar. Order the "angular" Chenin Blanc if you're in the mood. (Last visit: May 2015)

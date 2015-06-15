@@ -6,6 +6,8 @@ tags: berlin food
 ---
 # Eating in Berlin
 
+Also check out: [Eating in NYC](http://1l2p.net/2015/06/15/Eating-in-NYC.html)
+
 A few personal favorites (I'll try to keep the list updated)
 
 **Restaurant 3** - somewhat under the radar, simple and stylish, modern italian fare (my personal favorite in Berlin, highly recommended)
