@@ -6,7 +6,7 @@ tags: nyc food
 ---
 # Eating in NYC
 
-Also check out: [Berlin](http://1l2p.net/2014/06/06/Eating-in-Berlin.html) [Boston](/2014/07/29/Boston-Tips.html)
+Also check out: [Berlin](http://1l2p.net/2014/06/06/Eating-in-Berlin.html) /  [Boston](/2014/07/29/Boston-Tips.html)
 
 A few personal favorites (I'll try to keep the list updated)
 
