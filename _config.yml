@@ -1,3 +1,3 @@
-pygments: true
+highligher: rouge
 paginate: 3
 markdown: kramdown
