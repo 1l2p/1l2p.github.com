@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 <head>
+   <!-- Github Pages SEO tag plugin - needs gem loaded in config.yml -->
+   {% seo %}
    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
    <title>{{ page.title }}</title>
    <!-- Homepage CSS -->
@@ -17,7 +19,7 @@
     <div class="nav">
       <a href="/">Home</a> | <a href="/blog.html">Blog</a> | <a href="/about.html">About</a> | <a href="/tags.html">Tags</a> | <a href="/archive/" target="_blank">Old posts</a>
     </div>
-  
+
     {{ content }}
 
     <div class="footer">

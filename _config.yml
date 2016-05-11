@@ -1,3 +1,5 @@
 highligher: rouge
 paginate: 3
 markdown: kramdown
+gems:
+  - jekyll-seo-tag
