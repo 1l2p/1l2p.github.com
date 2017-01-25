@@ -1,7 +1,6 @@
 ---
 layout: post
-title: TITLE 
+title: TITLE
 comments: true
 tags:
 ---
-
