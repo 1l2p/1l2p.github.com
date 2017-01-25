@@ -11,6 +11,8 @@ tags: blockchain, bitcoin, certificates, credentials, blockcerts
 
 Earlier this year, the MIT Media Lab started issuing digital certificates to groups of people in our broader community. We use certificates as a way to recognize contributions we value, or simply to signal membership in the Media Lab family. For example, in July we issued coins and certificates to all of the [Media Lab Director’s Fellows](https://www.media.mit.edu/people/?filter=directors-fellow). The coins are physical representations of [digital certificates](https://certs.media.mit.edu/8ca9cad234bdc2136532072e4a01b4898d45ef128d0cec499e76903787b9430d) (see below).
 
+![Coin]({{site}}/images/ml-certificates.png)
+
 ## Designing an Open Platform for Digital Certificates
 
 Certificates are signals of achievement or membership and some are more important than others. University degrees (a particular type of certificate) can help you get the job you want, or prevent you from getting it if you don’t have the right certificate. Our current, mostly analog system for managing certificates is slow, complicated, and unreliable. There are many advantages for creating a digital infrastructure for certificates, but the stakes are high since such a system could grow to represent our professional reputations. We need to be thoughtful about its design, and the type of institutions we trust to govern it.
@@ -19,11 +21,13 @@ Certificates are signals of achievement or membership and some are more importan
 
 When we lived in small tight-knit communities, people knew whom they could turn to when they needed an expert (and whom to avoid). However, as we started moving around more and our lives and networks grew, we needed to come up with portable ways to signal our expertise to new acquaintances. Some of these original systems are still in place. For example, in Germany many carpenters still do an [apprenticeship tour](https://en.wikipedia.org/wiki/Journeyman_years) that lasts no less than three years and one day. They carry a small book in which they collect stamps and references from the master carpenters with whom they work along the way. The carpenter’s traditional (and now hipster) outfit, the book of stamps they carry, and — if all goes well — the certificate of acceptance into the carpenter guild are proof that here is a man or woman you can trust to build your house.
 
+![Wandergeselle](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Wandergeselle_02.JPG/640px-Wandergeselle_02.JPG)
+
 “Wandergeselle 02” by Sigismund von Dobschütz — CC BY-SA 3.0 via Wikipedia Commons
 
 Ideally we should be in charge of our own credentials, similar to the journeymen carpenters who carry around their books of stamps and references. But most of the time we have to rely on third parties, such as universities or employers to store, verify, and validate our credentials. Job seekers have to request official transcripts from their alma maters (and typically pay a small fee), and employers still need to call the university if they want to be sure that a transcript wasn’t faked. It’s a slow and complicated process, which is one reason why degree fraud is a real issue. (A few years back, even our very own MIT Admissions office realized that its [Dean didn’t actually have the undergraduate degree](http://www.nytimes.com/2007/04/27/us/27mit.html) that she had listed in her application). Making certificates transferable and more easily verifiable is one advantage of digital systems.
 
-![Wanderbuch](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Wandergeselle_02.JPG/640px-Wandergeselle_02.JPG)
+![Wanderbuch](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Wanderbuch2.jpg/607px-Wanderbuch2.jpg)
 
 *“Wanderbuch” by Magistrate der Königl. Freystadt Oedenburg im Königreiche Ungarn / Public Domain*
 
