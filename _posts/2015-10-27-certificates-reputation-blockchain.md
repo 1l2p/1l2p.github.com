@@ -7,7 +7,6 @@ tags: blockchain, bitcoin, certificates, credentials, blockcerts
 
 # Certificates, Reputation, and the Blockchain
 
-
 (Crossposted to [Medium](https://medium.com/mit-media-lab/certificates-reputation-and-the-blockchain-aee03622426f#.rgm5rdnwb))
 
 Earlier this year, the MIT Media Lab started issuing digital certificates to groups of people in our broader community. We use certificates as a way to recognize contributions we value, or simply to signal membership in the Media Lab family. For example, in July we issued coins and certificates to all of the [Media Lab Director’s Fellows](https://www.media.mit.edu/people/?filter=directors-fellow). The coins are physical representations of [digital certificates](https://certs.media.mit.edu/8ca9cad234bdc2136532072e4a01b4898d45ef128d0cec499e76903787b9430d) (see below).
