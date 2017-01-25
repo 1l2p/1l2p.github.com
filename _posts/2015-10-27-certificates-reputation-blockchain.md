@@ -12,7 +12,7 @@ tags: blockchain, bitcoin, certificates, credentials, blockcerts
 Earlier this year, the MIT Media Lab started issuing digital certificates to groups of people in our broader community. We use certificates as a way to recognize contributions we value, or simply to signal membership in the Media Lab family. For example, in July we issued coins and certificates to all of the [Media Lab Director’s Fellows](https://www.media.mit.edu/people/?filter=directors-fellow). The coins are physical representations of [digital certificates](https://certs.media.mit.edu/8ca9cad234bdc2136532072e4a01b4898d45ef128d0cec499e76903787b9430d) (see below).
 
 ![Coin]({{ site.url }}/images/ml-certificates.png)
-
+ 
 ## Designing an Open Platform for Digital Certificates
 
 Certificates are signals of achievement or membership and some are more important than others. University degrees (a particular type of certificate) can help you get the job you want, or prevent you from getting it if you don’t have the right certificate. Our current, mostly analog system for managing certificates is slow, complicated, and unreliable. There are many advantages for creating a digital infrastructure for certificates, but the stakes are high since such a system could grow to represent our professional reputations. We need to be thoughtful about its design, and the type of institutions we trust to govern it.
