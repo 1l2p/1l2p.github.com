@@ -2,6 +2,7 @@
 layout: post
 title: Eating in Berlin
 comments: true
+category: food
 tags: berlin food
 ---
 # Eating in Berlin

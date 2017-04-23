@@ -2,6 +2,7 @@
 layout: post
 title: Eating and other things in Boston
 comments: true
+category: food
 tags: boston tips food
 ---
 # Eating in Boston

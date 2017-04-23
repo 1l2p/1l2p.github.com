@@ -2,6 +2,7 @@
 layout: post
 title: Eating in NYC
 comments: true
+category: food
 tags: nyc food
 ---
 # Eating in NYC
