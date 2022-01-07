@@ -2,4 +2,9 @@ highligher: rouge
 paginate: 3
 markdown: kramdown
 gems:
-  - jekyll-seo-tag
+  - 'jekyll-seo-tag'
+  - 'jekyll-feed'
+plugins:
+  - 'jekyll-feed'
+title: Philipp Schmidt
+author: Philipp Schmidt

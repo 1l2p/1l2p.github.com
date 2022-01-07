@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Disruptions everwhere 
-comments: true
+comments: false
 tags: 
 ---
 
