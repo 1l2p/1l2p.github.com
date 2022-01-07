@@ -3,3 +3,7 @@ paginate: 3
 markdown: kramdown
 gems:
   - jekyll-seo-tag
+plugins:
+  - jekyll-feed
+title: "Philipp's blog"
+author: Philipp Schmidt
