@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Certificates, Reputation, and the Blockchain
-comments: true
+comments: false
 tags: blockchain, bitcoin, certificates, credentials, blockcerts
 ---
 
