@@ -4,7 +4,7 @@ title: Delegation & Decisions
 comments: false 
 tags:
 ---
-# Delegation Work & Making Decisions
+# Delegating Work & Making Decisions
 
 On any size team, the process of delegation has an effect not only how efficiently work moves forward, but also how much ownership individual team members experience over their work. 
 
