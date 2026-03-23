@@ -189,6 +189,11 @@ ul.posts {
 
 }
 
+  #post img {
+    max-width: 100%;
+    height: auto;
+  }
+
   /* standard */
 
   #post pre {
