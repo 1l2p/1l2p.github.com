@@ -5,3 +5,5 @@ _site/
 /_includes/tmp
 /_layouts/tmp
 /_posts/tmp
+Gemfile.lock
+.jekyll-cache/

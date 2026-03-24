@@ -6,5 +6,7 @@ gems:
   - 'jekyll-feed'
 plugins:
   - 'jekyll-feed'
+  - 'jekyll-seo-tag'
+  - 'jekyll-paginate'
 title: Philipp Schmidt
 author: Philipp Schmidt

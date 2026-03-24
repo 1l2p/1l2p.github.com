@@ -1,9 +1,20 @@
 ---
 layout: default
 ---
-<!-- Post Layout Template --> 
+<!-- Post Layout Template -->
 <div id="post">
 {{ content }}
+
+<!-- Option A: left-aligned, slightly muted -->
+<p class="post-date">Posted on {{ page.date | date: "%B %-d, %Y" }}</p>
+
+<!-- Option B: right-aligned (uncomment to use instead)
+<p class="post-date post-date-right">Posted on {{ page.date | date: "%B %-d, %Y" }}</p>
+-->
+
+<!-- Option C: centered with top border (uncomment to use instead)
+<p class="post-date post-date-rule">Posted on {{ page.date | date: "%B %-d, %Y" }}</p>
+-->
 </div>
 <!-- 
     {% if page.comments %}
