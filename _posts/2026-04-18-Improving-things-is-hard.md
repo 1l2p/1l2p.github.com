@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Improving things is hard - why edtech innovators are not the (real) problem
+title: Improving Things is Hard - Why Edtech Innovators Are Not The (Real) Problem
 comments: true
 tags: learning education
 ---
 
-# Improving things is hard - why edtech innovators are not the problem. 
+# Improving Things is Hard - Why Edtech Innovators Are Not The (Real) Problem 
 
 The last few weeks have seen what is by now a well-practiced dance of the pro-edtech and anti-edtech editorialists squaring off. 
 
