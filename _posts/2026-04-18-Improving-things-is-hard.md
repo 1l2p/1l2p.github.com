@@ -25,7 +25,7 @@ There are plenty of motivated passionate teachers and administrators, who are st
 
 Those are hard and important problems to work on and we need all the help we can get, from people trying to build better edtech, but also innovators in pedagogy, policy, and finance - even if not all or our efforts work. 
 
-In the case of Khan, it’s worth pointing out that a lot of the hard lessons learned have been shared publicly. There are research reports and case-studies that document how things have worked (or not) and why. 
+In the case of Khan, it’s worth pointing out that a lot of the hard lessons learned have been shared publicly. There are [research reports](https://blog.khanacademy.org/research/) and case-studies that document how things have worked (or not) and why. 
 
 Is it really such a problem if five years from now, Sal Khan gives another TED talk, launching an ambitious new venture and acknowledging that the ETS/Khan/TED Institute didn’t quite work as well as he had hoped? I for one, would appreciate it if he was still trying to come up with new solutions to problems I care about. Even if they don’t work as well as hoped. 
 
