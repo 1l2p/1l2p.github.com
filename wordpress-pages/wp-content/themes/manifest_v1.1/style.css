@@ -823,23 +823,6 @@ legend span{
 }
 
 
-/* Paging Navigation
--------------------------------------------------------------------- */
-
-.pageNav{
-  margin-top: 40px;
-}
-.pageNav .prev,
-.pageNav .next{
-  display: block;
-}
-.pageNav .prev{
-  float: left;
-}
-.pageNav .next{
-  float: right;
-}
-
 /* Archives
 -------------------------------------------------------------------- */
 
