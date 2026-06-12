@@ -1,0 +1,261 @@
+/*****************************************************************************/
+/*
+/* Common
+/*
+/*****************************************************************************/
+
+/* Global Reset */
+
+* {
+  padding: 0;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background-color: white;
+  font-size: 0.9em;
+  font-family: "Helvetica Neue", Helvetica, "Trebuchet MS", sans-serif;
+  font-weight: 350;
+  text-align: center;
+  max-width: 700px;
+  vertical-align: baseline;
+  position: relative;
+  margin: 0 auto;
+  padding: 1.0em;
+  line-height: 1.7em;
+  color: #333333;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: 100%;
+}
+
+h1 {
+  margin-bottom: 1em;
+  margin-top: 1em;
+  font-weight: 500;
+}
+
+p {
+  margin: 1em 0;
+}
+
+@keyframes link-color {
+  0%   { color: #2E6DA4; }
+  20%  { color: #5B3A8A; }
+  40%  { color: #2E7A4F; }
+  60%  { color: #7A4A2A; }
+  80%  { color: #666677; }
+  100% { color: #2E6DA4; }
+}
+
+a {
+  color: #2E6DA4;
+  text-decoration: none;
+  animation: link-color 32s ease-in-out infinite;
+}
+
+a:hover {
+  text-decoration: underline;
+  animation-play-state: paused;
+}
+
+.nav-sep {
+  color: black;
+}
+
+a:visited {
+  color: #08F;
+}
+
+table {
+  font-size: inherit;
+  font: 100%;
+}
+
+/*****************************************************************************/
+/*
+/* Home
+/*
+/*****************************************************************************/
+
+ul.posts {
+  list-style-type: none;
+  margin-bottom: 2em;
+}
+
+  ul.posts li {
+    line-height: 1.75em;
+  }
+
+  ul.posts span {
+    font-family: Monaco, "Courier New", monospace;
+    font-size: 80%;
+  }
+
+/*****************************************************************************/
+/*
+/* Site
+/*
+/*****************************************************************************/
+
+.site {
+  font-size: 110%;
+  text-align: left;
+  margin: 3em auto 2em auto;
+  line-height: 1.5em;
+  vertical-align: baseline;
+}
+
+
+.nav {
+  color: #08F;
+  font-weight: 500;
+  margin-bottom: 2em;
+}
+
+  .site .nav a {
+    text-decoration: none;
+  }
+
+  .site .nav a.extra {
+    color: #aaa;
+    text-decoration: none;
+    margin-left: 1em;
+  }
+
+  .site .nav a.extra:hover {
+    color: black;
+  }
+
+
+.title {
+  color: #333;
+  font-weight: 500;
+  margin-bottom: 1em;
+}
+
+  .site .title a {
+    color: #333;
+    text-decoration: none;
+  }
+
+  .site .title a:hover {
+    color: black;
+  }
+
+  .site .title a.extra {
+    color: #333;
+    text-decoration: none;
+    margin-left: 1em;
+  }
+
+  .site .title a.extra:hover {
+    color: black;
+  }
+
+  .site .meta {
+    color: #aaa;
+  }
+
+  .site .footer {
+    font-size: 80%;
+    color: #666;
+    border-top: 4px solid #eee;
+    margin-top: 2em;
+    overflow: hidden;
+  }
+
+    .site .footer .contact {
+      float: left;
+      margin-right: 3em;
+    }
+
+      .site .footer .contact a {
+        color: #666;
+      }
+
+    .site .footer .rss {
+      margin-top: 1.1em;
+      margin-right: -.2em;
+      float: right;
+    }
+
+      .site .footer .rss img {
+        border: 0;
+      }
+
+/*****************************************************************************/
+/*
+/* Posts
+/*
+/*****************************************************************************/
+
+#post {
+
+}
+
+  #post img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  /* Option A: left-aligned, slightly muted (default) */
+  #post .post-date {
+    font-size: 80%;
+    color: #888;
+    margin-top: 2em;
+  }
+
+  /* Option B: right-aligned */
+  #post .post-date-right {
+    text-align: right;
+  }
+
+  /* Option C: centered with top border */
+  #post .post-date-rule {
+    text-align: center;
+    border-top: 1px solid #ddd;
+    padding-top: 1em;
+    color: #aaa;
+  }
+
+  /* standard */
+
+  #post pre {
+    border: 1px solid #ddd;
+    background-color: #eef;
+    padding: 0 .4em;
+  }
+
+  #post ul,
+  #post ol {
+    margin-left: 1.35em;
+  }
+
+  #post code {
+    border: 1px solid #ddd;
+    background-color: #eef;
+    font-size: 85%;
+    padding: 0 .2em;
+  }
+
+    #post pre code {
+      border: none;
+    }
+
+  /* terminal */
+
+  #post pre.terminal {
+    border: 1px solid black;
+    background-color: #333;
+    color: white;
+  }
+
+  #post pre.terminal code {
+    background-color: #333;
+  }

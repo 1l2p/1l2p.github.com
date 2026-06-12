@@ -1,0 +1,10 @@
+_drafts/
+_site/
+.DS_Store
+*.swp
+/_includes/tmp
+/_layouts/tmp
+/_posts/tmp
+Gemfile.lock
+.jekyll-cache/
+.obsidian/

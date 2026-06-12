@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Pratham Books goes CC (BY-NC-SA)"
+comments: false
+tags: bits and pieces open education
+---
+
+[Pratham Books/ Read India](http://www.prathambooks.org/home.htm) is one of those inspiring projects that India seems able to generate more easily than many other transition economies: cool business sense and entrepreneurship hit a social cause. Gautam John and his colleagues have managed to squeeze the publication costs of educational books to an absolute minimum, producing lots and lots of books that are distributed across India. It’s a great model, and today it got even better – [Gautam announced](http://blog.prathambooks.org/2008/11/on-joining-commons.html) that they are starting to make the first collection of their books available under a Creative Commons Attribution NonCommercial ShareAlike license. The books are hosted [here](http://www.scribd.com/people/documents/128645/folder/49703?secret_password=3i31nhz6kibxvg582pe). The NonCommercial option makes things unnecessarily complicated, but since they are part of a larger commercial publisher, I suspect it was the mother company’s fear of the unknown (Share What?) that meant it would be non-commercial or non-creative commons. And choosing pdf as the only file format for publishing them makes remixing a bit complicated (in fact, so complicated that Gautam himself was unable to remove the “all rights reserved” disclaimer from the books – he added the creative commons blurb at the end). So, there is room for improvement, but more importantly it’s another step in the right direction – and yet another project we can point to that has found a way to make open licenses work.

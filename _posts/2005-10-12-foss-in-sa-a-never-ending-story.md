@@ -1,0 +1,12 @@
+---
+layout: post
+title: "FOSS in SA / a never-ending story"
+comments: false
+tags: bits and pieces
+---
+
+It seems that some things continuously change, yet always stay the same. Remember the Microsoft donation to South African schools? The recent announcement that Microsoft is sponsoring software for the Universal Service Agency’s tele-centers (think, Internet cafe’s, but set-up by the public sector) is causing the usual uproar. This Mail and Guardian [article](http://www.mg.co.za/articlePage.aspx?articleid=253198&area=/insight/insight__economy__business/) provides an overview. And [here](http://www.tectonic.co.za/view.php?id=633) is Alastair Otter’s piece that might have stirred things up originally.
+
+But is arguing over unfair business practices really the best way forward? FOSS in Africa has a long way to go to make any real impact. Developer and user communities do not understand each other, the lack of Internet connectivity is a huge problem, and looking for governments to support local FOSS developers might not prove effective. The fact is that existing FOSS policies in Africa are hardly noteworthy. For example: The SA Government’s “FOSS Policy” is mentioned in every report, article, opinion on how developing countries are taking up FOSS. However, it lacks real teeth, does not provide binding procurement guidelines, there is no institution overseeing its implementation and very little help available for government departments considering FOSS. There certainly is nobody who would punish departments that decide to continue to use proprietary software. I recently looked at [FOSS policies in Africa](http://www.bridges.org/foss/Annex5_CountryTable_10Aug05.pdf) (pdf file) and found that only very few countries even mention FOSS in any kind of policy document. A number of studies are now underway to assess the use and implementation of FOSS in the public sector in Africa and I think the outcomes will be similarly dis-illusioning.
+
+As I suggested in this [presentation](http://r0.unctad.org/ecommerce/event_docs/fossem/schmidt.pdf) at UNCTAD I still think that FOSS Policy is not as straight-forward as many make it out to be. Instead of simple answers, it requires long and complicated answers. How about — at the policy level — we focus on improving computer science education? That would lead to more skilled labour, which in turn could build an African software ecosystem from the bottom up; the same way the FOSS community has evolved over time in other parts of the world.

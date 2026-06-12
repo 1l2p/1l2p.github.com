@@ -1,0 +1,12 @@
+highligher: rouge
+paginate: 3
+markdown: kramdown
+gems:
+  - 'jekyll-seo-tag'
+  - 'jekyll-feed'
+plugins:
+  - 'jekyll-feed'
+  - 'jekyll-seo-tag'
+  - 'jekyll-paginate'
+title: Philipp Schmidt
+author: Philipp Schmidt
